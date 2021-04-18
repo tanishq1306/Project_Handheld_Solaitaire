@@ -11,12 +11,8 @@
    *	If the suits match, only the middle 2 (of the top 4) cards of the hand are discarded. 
    *	The final score is the number of cards left in the hand at the end of the game. 
 
-----------------------------
-
 ## Requirements specifications of the assignment 
    Handheld Solitaire is developed in **C++ using OOP's Concept**. 
-
-----------------------------
 
 ## Implementation 
 *Card.h*
@@ -65,16 +61,12 @@ class CardLL {
 > Function definitions are written in *card.cpp* and *cardLL.cpp* <br>
 > Driver Main Function is written inside *HHSolaitiare.cpp*
 
-------------------------
-
 ## Output Screenshots
 ### Testrun_1
 <img src = "https://github.com/tanishq1306/Project_Handheld_Solaitaire/blob/main/testrun_1.PNG">
-<hr>
 
 ### Testrun_2
 <img src = "https://github.com/tanishq1306/Project_Handheld_Solaitaire/blob/main/testrun_2.PNG">
-<hr>
 
 ### Testrun_3
 <img src = "https://github.com/tanishq1306/Project_Handheld_Solaitaire/blob/main/testrun_3.PNG">
