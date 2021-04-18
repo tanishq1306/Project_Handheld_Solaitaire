@@ -44,8 +44,8 @@ class CardLL {
   Data Members
     int lenLL;
     Card *top;
-
-	 Member Functions
+   
+  Member Functions
     CardLL();
     ~CardLL();
     int insertAtTop(int value, char suit);
