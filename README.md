@@ -12,7 +12,7 @@
    *	The final score is the number of cards left in the hand at the end of the game. 
 
 ## Requirements specifications of the assignment 
-   Handheld Solitaire is developed in **C++ using OOP's Concept**. 
+   Handheld Solitaire is developed in **C++ using OOP's Concept**. To make the code modular & separate the concerns use .h header files which contains only function declaration    and define these functions in the .cpp file. And include .h file in the main driver code. 
 
 ## Implementation 
 *Card.h*
