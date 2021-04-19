@@ -1,4 +1,4 @@
-# Project_Handheld_Solaitaire_Tanishq
+# Project_Handheld_Solitaire_Tanishq
 
 ## Introduction to assignment 
 
